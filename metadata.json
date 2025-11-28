@@ -1,21 +1,17 @@
 {
-    "title": "",
-    "slug": "",
+    "title": "JSON: Scientific Notation",
+    "slug": "json-scientific-notation",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "json"
     ],
-    "duration": 0,
+    "duration": 1,
     "prerequisites": [
-        "",
-        ""
+        "json-data-types",
+        "scientific-notation-numbers"
     ],
     "related": [
-        "",
-        ""
     ]
 }
